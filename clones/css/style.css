@@ -1,0 +1,14 @@
+:root {
+  --clr-yellow: #fbffa7;
+  --clr-lavender: #d5b3ff;
+  --clr-orange: #ff764d;
+  --clr-mint: #b6ffc0;
+  --clr-lightblue: #b1c5ff;
+  --clr-blue: #0000ff;
+}
+
+main div {
+  width: 20px;
+  height: 20px;
+  background: red;
+}
